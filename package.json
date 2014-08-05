@@ -1,0 +1,16 @@
+{
+  "name": "svg-to-canvas",
+  "description": "svg to canvas",
+  "keywords": "svg canvas",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jameskyburz/svg-to-canvas"
+  },
+  "author": {
+    "name": "James Kyburz",
+    "email": "james.kyburz@gmail.com"
+  },
+  "main": "index.js",
+  "version": "1.0.0",
+  "license": "MIT"
+}
