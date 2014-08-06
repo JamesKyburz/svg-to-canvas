@@ -13,13 +13,13 @@ var convert = require('svg-to-canvas');
 var svg = document.querySelector('svg');
 
 convert(svg, function thumbnail(canvas) {
+  var image = new Image();
   image.onload = function() {
     image.setAttribute('height', image.height*0.3);
     image.setAttribute('width', image.width*0.3);
     window.document.body.appendChild(image);
   };
   image.src = canvas.toDataURL();
-  var image = new Image();
 });
 ```
 
