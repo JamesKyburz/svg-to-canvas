@@ -1,5 +1,7 @@
 # svg-to-canvas
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JamesKyburz/svg-to-canvas.svg)](https://greenkeeper.io/)
+
 svg to canvas
 
 Try it out! [![view on requirebin](http://requirebin.com/badge.png)](http://requirebin.com/?gist=45f32c2c85ea7894956f)
